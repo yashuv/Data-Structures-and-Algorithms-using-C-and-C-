@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-using-C-and-C-
+# Data-Structures-and-Algorithms-using-C-and-Cpp
 This document contains the DSA-related notes and code implementation that I created during the 4th semester of my undergraduate studies at the university.
 
 I learned a lot about data structures and algorithms. I learned how to make sure that my code was efficient and would run quickly.<br>
